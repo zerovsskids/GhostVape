@@ -1,20 +1,13 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./README/vapelogo-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="./README/vapelogo-dark.png">
-    <img alt="vape logo" src="./README/vapelogo.png">
-  </picture>
-</p>
 <h2 align="center">
-  A Roblox script built from the ground up for your precise needs!
+  A Vape V4 Fork/Config that is built
   <br/>
-  Rise up to the top while remaining completely untouchable.
+  Just to beat Pay-to-Win players.
 </h2>
 
-## Contacts
-[Discord](https://discord.gg/5gJqhQmrdS)
+## Socials
+[Discord](https://discord.gg/nVdRTk5X3z)
 <br/>
-[Youtube](https://youtube.com/c/7GrandDadVape)
+[Youtube](https://www.youtube.com/@Zero_OneTwo)
 
 ## Usage
 1. Download the specific scripting utility of your choice.
